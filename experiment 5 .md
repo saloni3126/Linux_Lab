@@ -165,6 +165,5 @@ chown root:admin project.sh # Change owner to root and group to admin
 
 ---
 
- **Key Tip**: Use **numeric for quick settings** (e.g., 755, 644) and **symbolic for fine adjustments** (`u+x`, `g-w`).
-# change
+ **Key Tip**: Use **numeric for quick settings** (e.g., 755, 644) and **symbolic for fine adjustments** (`u+x`, `g-w`)
 ---
